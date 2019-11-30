@@ -14,7 +14,7 @@ All you have to do is update the date.json file and then run the project.
 ### Setup
 - Create a new dates.json file.
 
-###Example
+### Example
 
 - We left a sample item for you.
 ```
@@ -29,6 +29,11 @@ All you have to do is update the date.json file and then run the project.
     "EndDate": "2019-12-01"
   }
 ]
+```
+#### Output
+```
+Example 1: 0 days; 0 years, 0 months, 0 days, 16 hours, 21 mins and 1 seconds.
+Example 2: 1 days; 0 years, 0 months, 1 days, 0 hours, 0 mins and 0 seconds.
 ```
 
 ### Running
